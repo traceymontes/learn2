@@ -1,0 +1,23 @@
+/* styles.css */
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #fceff5;
+  color: #333;
+  text-align: center;
+  background-image: url(background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 20px;
+}
+
+/* Float the buttons */
+.float-buttons {
+  display: flex;
+  justify-content: center;
+}
